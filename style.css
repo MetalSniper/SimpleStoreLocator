@@ -79,7 +79,7 @@
 }
 
 /* Store locator items (Elementor loop items) */
-/* Add the class "map-store-item" to your Loop Item container in Elementor */
+/* This corresponds to the "map-store-item" class for each Loop Item container in Elementor */
 .map-store-item {
     cursor: pointer;
     transition: all 0.3s ease;
